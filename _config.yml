@@ -15,6 +15,7 @@ header_pages:
   - events/index.md
   - groups/index.md
   - blog/index.md
+  - connect.md
 
 plugins:
   - jekyll-feed
