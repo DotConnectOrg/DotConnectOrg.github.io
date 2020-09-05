@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Global Webinar on Edge Computing
-category: events
 ---
 
 DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing.
