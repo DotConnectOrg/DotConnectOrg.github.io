@@ -6,6 +6,9 @@ rss: rss
 
 show_excerpts: true
 
+disqus:
+  shortname: dotconnect
+
 theme: minima
 header_pages:
   - events/index.md
