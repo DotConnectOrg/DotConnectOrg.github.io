@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Events"
+comments: true
 ---
 
 <ul>
