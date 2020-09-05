@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First Global Webinar on Edge Computing"
 permalink: blog/first-global-webinar
 ---
