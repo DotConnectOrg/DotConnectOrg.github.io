@@ -3,7 +3,7 @@ layout: post
 title: Global Webinar on Edge Computing
 ---
 
-DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing.
+[DotConnect](https://dotconnectorg.github.io) is excited to host first Global Dev Connection Webnair on Edge Computing.
 
 ## What is Edge Computing?
 Edge computing is a [distributed computing paradigm](https://en.wikipedia.org/wiki/Edge_computing) that brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth.
