@@ -12,7 +12,7 @@ disqus:
 theme: minima
 header_pages:
   - events/index.md
-  - member-groups/index.md
+  - groups/index.md
   - blog/index.md
 
 plugins:
