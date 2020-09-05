@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Groups"
-categories: groups
-permalink: /groups/
 ---
 
 ## DotNetters
