@@ -1,6 +1,6 @@
 ---
-layout: post
-comments: false
+layout: page
+comments: true
 title: Global Webinar on Edge Computing
 ---
 
