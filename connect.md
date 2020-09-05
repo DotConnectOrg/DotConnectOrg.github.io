@@ -1,10 +1,7 @@
 ---
 title: "Connect"
 ---
-
-Connect with thousands of developer and technology professionals through the social channels below. 
-
-Share your ideas or learn what's going on in technology industry.
+Connect with thousands of developer and technology professionals through the social channels below. Share your ideas or learn what's going on in technology industry.
 
 * [Facebook Group](https://www.facebook.com/groups/dotcong)
 * [Linkedin Group](https://www.linkedin.com/groups/54839)
