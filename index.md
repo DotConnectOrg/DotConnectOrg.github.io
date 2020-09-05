@@ -1,7 +1,7 @@
 ---
 title: DotConnect
 ---
-DotConnect connects technical communities of different interests by organizing virtual conferences and open source initiatives.
+DotConnect connects technical communities of different interests by organising virtual conferences and open source initiatives.
 
 Technical user groups are formed to focus and share specific technology interests. However it is also benefitial to have a unified view of these initiatives. 
 
