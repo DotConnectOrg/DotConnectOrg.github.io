@@ -14,7 +14,7 @@ Engineers and architects from software industry would like to share their experi
 
 ## Edge Computing to Adapt with New Norm
 
-With curent panademic situation, digital technologies provide a strong support to continue life as usual where possible. 
+With current pandemic situation, digital technologies provide a strong support to continue life as usual where possible. 
 
 Students are participating online classes, doctors are treating patients remotely with more safety, professionals continuing their work from home and the list goes on. 
 
