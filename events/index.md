@@ -3,7 +3,9 @@ title: "Events"
 ---
 ### Global Webinar on Edge Computing
 
-<a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing.</a> Virtual.
+DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing.
+
+Check <a href="/events/global-dev-con-egde-computing">here</a> for more details.
 
 ### SQLSaturday: Free Training on Microsoft Data Platform
 
