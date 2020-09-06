@@ -11,7 +11,6 @@ These community events offer content across data management, cloud and hybrid ar
 * Date: Sep 26 2020, Saturday
 * Venue: This event will be held on Sep 26 2020 at Meghbari Resort, Nagarvella, Ulokhola Kaligong, Gazipur, Bangladesh., Gazipur, Dhaka Division, 1720, Bangladesh.
 * Virtual conference: details to be shared later.
-
 * [Even home](https://www.sqlsaturday.com/1009/Event-Home)
 
 ### Sign Up for SQLSaturday #1009 – Gazipur – Virtual 2020
