@@ -4,10 +4,10 @@ title: "Events"
 
 <ul>
     <li>
-      <a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing</a>
+      <a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing.</a> Virtual.
     </li>
     <li>
-      <a href="/events/sql-saturday-1009">SQLSaturday #1009</a>
+      <a href="/events/sql-saturday-1009">SQLSaturday.</a> Microsoft data platform free training event. Virtual/Dhaka, Bangladesh. 26th Sept 2020.
     </li>
 </ul>
 
