@@ -6,6 +6,7 @@ title: Global Webinar on Edge Computing
 [DotConnect](https://dotconnectorg.github.io) is excited to host first Global Dev Connection Webnair on Edge Computing.
 
 ## What is Edge Computing?
+
 Edge computing is a [distributed computing paradigm](https://en.wikipedia.org/wiki/Edge_computing) that brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth.
 
 Cloud and Edge technologies are being one of the major core components for building modern web applications and distributed systems. Initially utilised by big tech giants like Microsoft, Facebook, Google, these technologies are now being a vital part of enterprise organisations, like bank, insurance, telecommunication companies. As one of the top IT service destinations, Bangladesh has huge opportunity in international and local market by gaining skills in these areas. 
