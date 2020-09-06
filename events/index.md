@@ -1,13 +1,11 @@
 ---
 title: "Events"
 ---
+### Global Webinar on Edge Computing.
 
-<ul>
-    <li>
-      <a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing.</a> Virtual.
-    </li>
-    <li>
-      <a href="/events/sql-saturday-1009">SQLSaturday.</a> Microsoft data platform free training event. Virtual/Dhaka, Bangladesh. 26th Sept 2020.
-    </li>
-</ul>
+<a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing.</a> Virtual.
 
+### SQLSaturday 1009
+
+<a href="/events/sql-saturday-1009">SQLSaturday.</a> Microsoft data platform free training event. Virtual/Dhaka, Bangladesh. 26th Sept 2020.
+ 
