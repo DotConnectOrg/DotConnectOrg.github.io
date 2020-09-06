@@ -5,6 +5,6 @@ Connect with thousands of developer and technology professionals through the soc
 
 * [Facebook Group](https://www.facebook.com/groups/dotcong)
 * [Linkedin Group](https://www.linkedin.com/groups/54839)
-* [Blog RSS](https://dotconnectorg.github.io/feed.xml)
+* [Blog](blog) ([RSS](feed.xml))
 * [Disqus Forum](https://disqus.com/home/forums/dotconnect)
 * [Github](https://github.com/DotConnectOrg) ([Discussions](https://github.com/DotConnectOrg/DotConnectOrg.github.io/issues))
