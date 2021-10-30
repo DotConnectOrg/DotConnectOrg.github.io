@@ -5,7 +5,7 @@ DotConnect connects technical communities of different interests by organising v
 
 Technical user groups are formed to focus and share specific technology interests. However it is also benefitial to have a unified view of these initiatives. 
 
-DotConnect connects and unites all interested technical people into a single starting point with acitivities below, but not limited to:
+DotConnect connects and unites all interested technical professionals and students into a single starting point with acitivities below, but not limited to:
 * Organizes global conferences/wabnairs
 * Promote user group events organised by individual member group
 * Share interesting technical events happening in interest
